@@ -1,0 +1,18 @@
+#main-title {
+    color:darkgreen;
+    text-align: center;
+    font-size: 3rem;
+}
+.intro {
+    font-size: 1.5em;
+    color: darkblue;
+    line-height: 1.8;
+}
+/* styling the box */
+.box {
+    width: 50%;
+    padding: 20px;
+    margin: 10px auto;
+    border: 5px solid black;
+    background-color: lightgray;
+}

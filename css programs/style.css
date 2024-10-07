@@ -1,0 +1,31 @@
+*{
+    background-color: blue;
+    
+}
+#box{
+    width: 77vw;
+    height: 70vh;
+    padding: 0px;
+    border: 2px solid black;
+    margin: 20px;
+    font-size: 16px;
+    text-align: left;
+    align-items: center;
+    margin: 0;
+}
+.tag{
+    color:chartreuse;
+}
+.new{
+    color:darkorange;
+}
+h1{
+    text-align: center;
+    color: antiquewhite;
+}
+h2{
+    color: black;
+}
+#top{
+    color:beige
+}
